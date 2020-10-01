@@ -1,2 +1,2 @@
 # DataStructureCodesAndApps
-This repository contains all my data structure code in one place...
+Hi All, Welcome to one stop place of all my code related to Data Structures and Algorithms. Enjoy!!
